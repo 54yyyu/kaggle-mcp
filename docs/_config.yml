@@ -1,0 +1,24 @@
+title: Kaggle-MCP Documentation
+description: Documentation for the Kaggle-MCP tool that connects Claude AI to the Kaggle API
+theme: jekyll-theme-cayman
+
+# Navigation
+header_pages:
+  - index.md
+  - installation.md
+  - authentication.md
+  - competitions.md
+  - datasets.md
+  - kernels.md
+  - models.md
+  - configuration.md
+  - examples.md
+
+# Show downloads links
+show_downloads: true
+
+# Repository information (for GitHub Pages)
+repository: 54yyyu/kaggle-mcp
+github:
+  is_project_page: true
+  repository_url: https://github.com/54yyyu/kaggle-mcp
